@@ -102,6 +102,10 @@ Should be either one + a little ‘calendar’ to calculate age.
 
 ~~Should have pre-sets (else it is not advanced settings but just settings because everyone has to set them). Also should allow for expanding available iptions for new types of analysis.~~
 
+## Select Statistics
+
+### 41. We should make a new tab. Called 'select statistics'. In this tab the users can define which variables they will use for which computations. I propose the 'Advanced Settings' will also be included on this page. Joost will give directions on which options should be displayed here.
+
 ## Results
 
 ### 24. Ellipse plots for the MNC
@@ -115,6 +119,10 @@ It is tricky to export svg plots and might not be feasable.
 ### 27. Raw data should be exportable as well
 To `.csv` for example. Ine same way as downloading a template, so that it can be uploaded later.
 "raw data" - data entered by a clinician, 
+
+## Export
+
+42. There should be another new tab (after Results) which will give the user the option of selecting which exports / screenshots they want to download. This will solve the issue of not being able to save the interactive plots. Here you will also be able to tick the box that says 'download patient(s) data' (so they get the file with filled in data).
 
 ## Layout / Look
 
